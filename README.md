@@ -14,7 +14,20 @@ let m_th_sm = ["", "ม.ค.", "ก.พ.", "มี.ค.", "เม.ย.", "พ.�
         
 let m_en_full = ['','January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 let m_en_sm = ['','Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec']
+
 ```
+#Prename
+```js
+let prename_th_up = ["เด็กชาย","เด็กหญิง","นาย","นาง","นางสาว"];
+
+let prename_th_down = ["ด.ช.","ด.ญ.","นาย","นาง","นางสาว"];
+
+let prename_en_up = ["Master","Miss","Mr","Mrs","Miss"];
+
+let prename_en_down = ["Mstr.","Miss","Mr","Mrs","Miss"];
+
+```
+
 # Alphabet    
 ```js
 let alphabet_str_th = "กขฃคฅฆงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรฤลฦวศษสหฬอฮ"
@@ -27,15 +40,18 @@ let alphabet_en_low = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l
 
 let alphabet_en_up = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
 ```
-#Number 
+
+# Number 
 ```js
 let number_en = [1,2,3,4,5,6,7,8,9,0]
-
 let number_th = ['๑','๒','๓','๔','๕','๖','๗','๘','๙','๐']
 ```
+# Color
+
+> Rainbow
 ```js
-```js
-```js
+let color_rainbow = ["red","orange","yellow","green","blue","indigo","violet"]
+```
 
 
 
@@ -43,4 +59,5 @@ let number_th = ['๑','๒','๓','๔','๕','๖','๗','๘','๙','๐']
 
 
 
-    let color_rainbow = ["red","orange","yellow","green","blue","indigo","violet"]
+
+ 
