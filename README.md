@@ -3,17 +3,17 @@ custom array for work
 
 # Date and Month
 ```js
-        let d_th_full = ["อาทิตย์","จันทร์","อังคาร","พุธ","พฤหัสบดี","ศุกร์","เสาร์"]
-        let d_th_sm = ["อา","จ","อ","พ","พฤ","ศ","ส"]
+let d_th_full = ["อาทิตย์","จันทร์","อังคาร","พุธ","พฤหัสบดี","ศุกร์","เสาร์"]
+let d_th_sm = ["อา","จ","อ","พ","พฤ","ศ","ส"]
         
-        let d_en_full =['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
-        let d_en_sm = ['Sun', 'Mon', 'Tue', 'Wed', 'Thur', 'Fri', 'Sat']
+let d_en_full =['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+let d_en_sm = ['Sun', 'Mon', 'Tue', 'Wed', 'Thur', 'Fri', 'Sat']
         
-        let m_th_full = [ "","มกราคม", "กุมภาพันธ์", "มีนาคม", "เมษายน", "พฤษภาคม", "มิถุนายน", "กรกฎาคม", "สิงหาคม", "กันยายน", "ตุลาคม", "พฤศจิกายน", "ธันวาคม", ]
-        let m_th_sm = ["", "ม.ค.", "ก.พ.", "มี.ค.", "เม.ย.", "พ.ค.", "มิ.ย.", "ก.ค.", "ส.ค.", "ก.ย.", "ต.ค.", "พ.ย.", "ธ.ค.", ]
+let m_th_full = [ "","มกราคม", "กุมภาพันธ์", "มีนาคม", "เมษายน", "พฤษภาคม", "มิถุนายน", "กรกฎาคม", "สิงหาคม", "กันยายน", "ตุลาคม", "พฤศจิกายน", "ธันวาคม", ]
+let m_th_sm = ["", "ม.ค.", "ก.พ.", "มี.ค.", "เม.ย.", "พ.ค.", "มิ.ย.", "ก.ค.", "ส.ค.", "ก.ย.", "ต.ค.", "พ.ย.", "ธ.ค.", ]
         
-        let m_en_full = ['','January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
-        let m_en_sm = ['','Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec']
+let m_en_full = ['','January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+let m_en_sm = ['','Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec']
 ```
 # Alphabet    
 ```js
@@ -29,7 +29,9 @@ let alphabet_en_up = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O
 ```
 #Number 
 ```js
-let number_en_up = 
+let number_en = [1,2,3,4,5,6,7,8,9,0]
+
+let number_th = ['๑','๒','๓','๔','๕','๖','๗','๘','๙','๐']
 ```
 ```js
 ```js
