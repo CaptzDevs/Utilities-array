@@ -50,8 +50,6 @@ let number_en = [1,2,3,4,5,6,7,8,9,0]
 let number_th = ['๑','๒','๓','๔','๕','๖','๗','๘','๙','๐']
 ```
 # Color
-
-> Rainbow
 ```js
 let color_rainbow = ["red","orange","yellow","green","blue","indigo","violet"]
 ```
