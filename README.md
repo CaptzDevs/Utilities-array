@@ -43,6 +43,9 @@ let alphabet_en_up = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O
 
 # Number 
 ```js
+let number_str_en = "๑๒๓๔๕๖๗๘๙๐"
+let number_str_en = "1234567890"
+
 let number_en = [1,2,3,4,5,6,7,8,9,0]
 let number_th = ['๑','๒','๓','๔','๕','๖','๗','๘','๙','๐']
 ```
@@ -53,6 +56,21 @@ let number_th = ['๑','๒','๓','๔','๕','๖','๗','๘','๙','๐']
 let color_rainbow = ["red","orange","yellow","green","blue","indigo","violet"]
 ```
 
+# Food 
+```js
+let fruit = ["🥝","🥥","🍇","🍈","🍉","🍊","🍋","🍌","🍍","🥭","🍎","🍏","🍐","🍑","🍒","🍓","🥑"]
+    
+let vegetable = ["🍅","🍆","🌽","🌶","🍄","🥒","🥬","🥦","🥔","🧄","🧅","🥕","🌰","🥜"]
+
+```    
+
+# Moon phase
+```js
+
+let moon_phase = ['🌑','🌒','🌓','🌔','🌕','🌖','🌗','🌘'] 
+
+let moon_phase_name = ['New Moon','Waxing Crescent','First Quarter','Waxing Gibbous','Full Moon','Waning Gibbous','Last Quarter','Waning Crescent']
+```    
 
 
 
